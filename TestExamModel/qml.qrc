@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyQunDelegateRight.qml</file>
+        <file>ExamDelegate.qml</file>
+        <file>QunDelegateModel.qml</file>
+        <file>Summary.qml</file>
+    </qresource>
+</RCC>
