@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>cloudy.png</file>
+        <file>humidity.png</file>
+        <file>rainy.png</file>
+        <file>sunny.png</file>
+        <file>wind.jpg</file>
+        <file>MyCityDelegateMdl.qml</file>
+        <file>MyWeatherDelegateMdl.qml</file>
+        <file>cancel.png</file>
+        <file>weatherimgg.webp</file>
+        <file>popbg.jpg</file>
+        <file>popbgnd.jpg</file>
+        <file>pop.webp</file>
+        <file>popi.webp</file>
+    </qresource>
+</RCC>
